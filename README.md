@@ -15,7 +15,7 @@ R scripts are numbered in the order they should be run.
 Notes about data: 
 
 - `data` folder contains five waves of Facebook data. 
-- ACS data were downloaded from IPUMS USA. We extracted ACS 1 year with the following variables: YEAR; STATEFIP; PERWT; SEX; AGE; BPL for all years 2001-2016
+- ACS data were downloaded from IPUMS USA. We extracted ACS 1 year with the following variables: YEAR; STATEFIP; PERWT; SEX; AGE; BPL for all years 2001-2017.
 
 
 Authors
